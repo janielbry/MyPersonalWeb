@@ -1,6 +1,6 @@
 # MyPersonalWeb
 <!DOCTYPE html>
-<html>
+<html lang="eng">
     <style>
     
          th {
