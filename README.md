@@ -17,10 +17,13 @@
        }
       
         .ambot{
-         width: 100%; 
+         width: 100%;
         background-color: rgb(102, 153, 204);
         
-        
+        iframe{
+        width: 100%;
+        height: 500px;
+        }
 }
       </style>
 <title> My Personal Website</title>
@@ -45,6 +48,17 @@
         <tr class="wew"><th>            </th><th>           </th><th>    SAT    </th><th>               </th></tr>
         <tr><th>NET 102</th><th>Networking 2</th><th>4:00-6:30</th><th>Ms.Janette Claro</th></tr> 
         </table> 
+        
+    <style>
+       
+       .ambot{
+         width: 100%; 
+        background-color: rgb(102, 153, 204);
+        } 
+        
+        <style>
+        
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQX0lfrt2KYql-sfLH0p9TiQXhILTQQsKFbEu4doJ2_XPwq2KeGD5HPtGM2dR-jOH800-4o1HL1zhZa/pubhtml?widget=true&amp;headers=false"></iframe>
 
 </body>
 </html>
