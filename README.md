@@ -22,7 +22,7 @@
         
         
 }
-        </style>
+      </style>
 <title> My Personal Website</title>
 <body>
     <table class="ambot">  
