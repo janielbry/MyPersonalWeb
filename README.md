@@ -24,6 +24,12 @@
         width: 100%;
         height: 500px;
         }
+        
+        iframe{
+        width: 100%;
+        height: 500px;
+        }
+        
 }
       </style>
 <title> My Personal Website</title>
@@ -50,6 +56,8 @@
         </table> 
         
         <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQWuRrAhJP8bqZvtiltjVV_imRP7ltTSWVVSZf_XJ91hqgpBYdrdxsCZsXrml9Cc115P-FpnN3tJfE/pubhtml?widget=true&amp;headers=false"></iframe>    
+        
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_WYUrYuxpo5_IIIaK61qwAoZsv4XO6ka97gc8hJYJrzEagHQ1o4EkeupZ4Cw5nSL8sISq_Mr5r_CF/pubhtml?widget=true&amp;headers=false"></iframe>
 
 </body>
 </html>
